@@ -15,3 +15,4 @@ This project introduces how to manage file permissions in Linux.
 - 8-James_Bond - Sets the permission of the files, only giving permissions to other users.
 - 9-John_Doe - Sets the permission of the files based on a given mode.
 - 10-mirror_permissions - Sets the mode of the file to the same as another file.
+- 11-directories_permissions - Adds execute permission to the subdirectories WITHOUT changing regular files.
