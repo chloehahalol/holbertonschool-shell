@@ -10,3 +10,4 @@ This project introduces how to manage file permissions in Linux.
 - 3-new_owner - Changes the owner of a file to the user betty.
 - 4-empty - Creates an empty file called hello.
 - 5-execute - Adds execute permission to the owner of a file.
+- 6-permissions - Adds differing permissions to the owner, group owner and others.
