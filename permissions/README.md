@@ -18,3 +18,4 @@ This project introduces how to manage file permissions in Linux.
 - 11-directories_permissions - Adds execute permission to the subdirectories WITHOUT changing regular files.
 - 12-directory_permissions - Creates direcories with permissions 751.
 - 13-change_group - Changes the group owner of a file.
+- 14-change_owner_and_group - Changes the owner and group owner for all files.
