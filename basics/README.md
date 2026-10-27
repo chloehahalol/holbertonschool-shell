@@ -21,4 +21,5 @@ This project introduces fundamental Linux shell commands and Bash scripting.
 - 12-file_type - Prints the type of the file.
 - 13-symbolic_link - Creates a symbolic link.
 - 14-copy_html - Copies (updates)  all HTML files from working to the parent directory.
-- 15-lets_move - Moves all files beginning with an uppercase letter to a directory.- 16-clean_emacs - Deletes all files in the current working directory that end with the character ~. 
+- 15-lets_move - Moves all files beginning with an uppercase letter to a directory.- 16-clean_emacs - Deletes all files in the current working directory that end with the squiggly line.
+- 17-tree - Create a script that creates the directories, even when the parent directories do not yet exist. 
