@@ -13,4 +13,5 @@ This project introduces fundamental Linux shell commands and Bash scripting.
 - 4-listmorefiles - Display current directory, including hidden files, in the long format.
 - 5-listfilesdigitonly - Displays current directory, including hidden files in the long format and wish user and group IDs displayed numerically. 
 - 6-firstdirectory - Creates a directory in the /tmp/ directory.
-- 7-movethatfile - Moves a file from source to a directory. 
+- 7-movethatfile - Moves a file from source to a directory.
+- 8-firstdelete - Deletes a file from its source. 
