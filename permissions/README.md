@@ -13,3 +13,4 @@ This project introduces how to manage file permissions in Linux.
 - 6-permissions - Adds differing permissions to the owner, group owner and others.
 - 7-everybody - Adds execution persmission to everybody.
 - 8-James_Bond - Sets the permission of the files, only giving permissions to other users.
+- 9-John_Doe - Sets the permission of the files based on a given mode.
