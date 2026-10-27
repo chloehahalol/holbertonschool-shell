@@ -17,3 +17,4 @@ This project introduces fundamental Linux shell commands and Bash scripting.
 - 8-firstdelete - Deletes a file from its source.
 - 9-firstdirdeletion - Deletes a directory from its source. 
 - 10-back - Changes the working directory to the previous one. 
+- 11-lists - Lists in the long form all hidden files in the current directory, parent of the working directory and the /boot directory (in that order).
