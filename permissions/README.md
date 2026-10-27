@@ -12,3 +12,4 @@ This project introduces how to manage file permissions in Linux.
 - 5-execute - Adds execute permission to the owner of a file.
 - 6-permissions - Adds differing permissions to the owner, group owner and others.
 - 7-everybody - Adds execution persmission to everybody.
+- 8-James_Bond - Sets the permission of the files, only giving permissions to other users.
