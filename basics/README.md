@@ -15,4 +15,5 @@ This project introduces fundamental Linux shell commands and Bash scripting.
 - 6-firstdirectory - Creates a directory in the /tmp/ directory.
 - 7-movethatfile - Moves a file from source to a directory.
 - 8-firstdelete - Deletes a file from its source.
-- 9-firstdirdeletion - Deletes a directory from its source.  
+- 9-firstdirdeletion - Deletes a directory from its source. 
+- 10-back - Changes the working directory to the previous one. 
