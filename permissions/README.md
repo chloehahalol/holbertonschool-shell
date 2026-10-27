@@ -19,3 +19,4 @@ This project introduces how to manage file permissions in Linux.
 - 12-directory_permissions - Creates direcories with permissions 751.
 - 13-change_group - Changes the group owner of a file.
 - 14-change_owner_and_group - Changes the owner and group owner for all files.
+- 15-symbolic_link_permissions - Changes the owner and group owner using a symbolic look.
