@@ -11,3 +11,4 @@ This project introduces how to manage file permissions in Linux.
 - 4-empty - Creates an empty file called hello.
 - 5-execute - Adds execute permission to the owner of a file.
 - 6-permissions - Adds differing permissions to the owner, group owner and others.
+- 7-everybody - Adds execution persmission to everybody.
