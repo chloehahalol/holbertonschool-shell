@@ -13,3 +13,4 @@
 - 8-cwd_state - Store ls -la into another file.
 - 9-duplicate_last_line - Duplicate the last line of the tile
 - 10-no_more_js - Find a specific type of file and delete them.
+- 11-directories - Counts the number of directories and sub-directories in the current directory.
