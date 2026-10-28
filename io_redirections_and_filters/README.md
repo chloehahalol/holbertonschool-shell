@@ -6,3 +6,4 @@
 - 1-confused_smiley - Prints a confused smiley face.
 - 2-hellofile - Displays the content of a specific file by calling its location.
 - 3-twofiles - Displays the content of two files.
+- 4-Display the last lines of a file.
