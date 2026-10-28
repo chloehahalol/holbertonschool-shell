@@ -21,3 +21,4 @@
 - 16-whatsnext - Finds lines with a word and then counts 3 lines after that.
 - 17-hidethisword - Displays lines that DO NOT contain a word.
 - 18-letteronly - Display all the lines starting with a letter.
+- 19-AZ - Replace multiple characters.
