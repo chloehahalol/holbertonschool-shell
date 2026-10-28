@@ -7,3 +7,4 @@
 - 2-hellofile - Displays the content of a specific file by calling its location.
 - 3-twofiles - Displays the content of two files.
 - 4-Display the last lines of a file.
+- 5-Display the first ten lines of a file.
