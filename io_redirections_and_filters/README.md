@@ -16,3 +16,4 @@
 - 11-directories - Counts the number of directories and sub-directories in the current directory.
 - 12-newest_files - Sorts all the files by newest to oldest and only shows the first 10.
 - 13-unique - Taking a list of words, filtering and printing.
+- 14-findthatword - Filters lines in a file with a pattern
