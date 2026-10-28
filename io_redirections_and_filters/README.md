@@ -9,3 +9,4 @@
 - 4-Display the last lines of a file.
 - 5-Display the first ten lines of a file.
 - 6-third_line - Displays the third line (uses a pipe to combine two commands)
+- 7-file - Creates a script with a weird name and also contains text.
