@@ -24,3 +24,4 @@
 - 19-AZ - Replace multiple characters.
 - 20-hiago - script that removes letters from the input
 - 21-reverse - Reverses the input.
+- 22-users_and_homes - Displays users and directories and sorted, from a file.
