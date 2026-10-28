@@ -19,3 +19,4 @@
 - 14-findthatword - Filters lines in a file with a pattern
 - 15-countthatword - Counts how many lines have a certain word in a file.
 - 16-whatsnext - Finds lines with a word and then counts 3 lines after that.
+- 17-hidethisword - Displays lines that DO NOT contain a word.
