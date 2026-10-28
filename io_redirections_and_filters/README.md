@@ -22,3 +22,4 @@
 - 17-hidethisword - Displays lines that DO NOT contain a word.
 - 18-letteronly - Display all the lines starting with a letter.
 - 19-AZ - Replace multiple characters.
+- 20-hiago - script that removes letters from the input
