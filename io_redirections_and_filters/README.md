@@ -14,3 +14,4 @@
 - 9-duplicate_last_line - Duplicate the last line of the tile
 - 10-no_more_js - Find a specific type of file and delete them.
 - 11-directories - Counts the number of directories and sub-directories in the current directory.
+- 12-newest_files - Sorts all the files by newest to oldest and only shows the first 10.
