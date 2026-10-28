@@ -11,3 +11,4 @@
 - 6-third_line - Displays the third line (uses a pipe to combine two commands)
 - 7-file - Creates a script with a weird name and also contains text.
 - 8-cwd_state - Store ls -la into another file.
+- 9-duplicate_last_line - Duplicate the last line of the tile
