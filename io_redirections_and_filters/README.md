@@ -18,3 +18,4 @@
 - 13-unique - Taking a list of words, filtering and printing.
 - 14-findthatword - Filters lines in a file with a pattern
 - 15-countthatword - Counts how many lines have a certain word in a file.
+- 16-whatsnext - Finds lines with a word and then counts 3 lines after that.
