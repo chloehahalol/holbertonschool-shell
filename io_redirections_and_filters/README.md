@@ -23,3 +23,4 @@
 - 18-letteronly - Display all the lines starting with a letter.
 - 19-AZ - Replace multiple characters.
 - 20-hiago - script that removes letters from the input
+- 21-reverse - Reverses the input.
