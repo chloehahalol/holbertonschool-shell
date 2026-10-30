@@ -1,6 +1,12 @@
-#!/bin/bash
-
 # Shell IO Redirections and filters
+
+This project is about learning how to manipulate command-line input and output, redirect data between commands and files, and process text.
+
+## Commands Explored
+
+```echo```
+
+## Scripts
 
 - 0-hello_world - Prints a text.
 - 1-confused_smiley - Prints a confused smiley face.
